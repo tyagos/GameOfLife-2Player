@@ -1,0 +1,6 @@
+This is a group project effort of a two-player version of Conways Game of Life.
+Each player starts off with 4 active cells in 10x10 grid.
+In each round the player, whose turn it is, can kill an opponents cell and then activate a dead cell.
+After that a new generation is generated and the turn ends.
+The player who after a turn has no active cells left loses.
+Have fun.
